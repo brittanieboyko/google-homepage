@@ -1,0 +1,9 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
