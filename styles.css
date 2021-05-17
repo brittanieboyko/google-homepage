@@ -16,4 +16,8 @@ input {
     align-items: center;
     flex-direction: column;
 }
-
+.nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
