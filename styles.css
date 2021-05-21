@@ -21,7 +21,24 @@ input {
   align-items: center;
   margin-top: 12px;
   outline: none;
-
+}
+.input-buttons {
+  display: flex;
+  justify-content: center;
+  margin: 2em;
+}
+.input-button {
+  border: 1px solid #f2f2f2;
+  background-color: #f2f2f2;
+  margin: 0.5em;
+  height: 34px;
+  min-width: 57px;
+  border-radius: 4px;
+  text-align: center;
+  line-height: 30px;
+  padding: 0px 10px;
+  text-decoration: none;
+  color: black;
 }
 .center {
   display: flex;
